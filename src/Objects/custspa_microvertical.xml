@@ -1,0 +1,13 @@
+<singlepageapp scriptid="custspa_microvertical">
+  <name>Micro Vertical SPA WEB</name>
+  <description>This script is the first version of the Micro Vertica SPA.</description>
+  <url>spa</url>
+  <folder>[/SuiteApps/com.netsuite.microvertical/spa/]</folder>
+  <clientscriptfile>[/SuiteApps/com.netsuite.microvertical/spa/SpaClient.js]</clientscriptfile>
+  <serverscriptfile>[/SuiteApps/com.netsuite.microvertical/spa/SpaServer.js]</serverscriptfile>
+  <assetsfolder>[/SuiteApps/com.netsuite.microvertical/spa/assets/]</assetsfolder>
+  <loglevel>DEBUG</loglevel>
+  <audienceallroles>F</audienceallroles>
+  <audienceroles></audienceroles>
+  <executeas></executeas>
+</singlepageapp>
